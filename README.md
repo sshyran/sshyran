@@ -1,8 +1,11 @@
 
+###### Daily quote quota: 1
+Output: 
+``` 
+Zero bit of knowledge is already 0ne bit of storage! 
+```
+(cc) Sergio Shyran
 
-
-Daily quote quota: 1
-- Output: **Zero bit of knowledge is already 0ne bit of storage!** (cc) Sergio Shyran
 
 <!--
 **sshyran/sshyran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
