@@ -2,6 +2,9 @@
 ![My GitHub stats](https://sshyran.github.io/shyran-system-stats/api/?username=shyransystems&show_icons=true&theme=tokyonight)
 -->
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight)](https://github.com/sshyran/readme-stats-reader)
+
+
 
 ###### Daily quote quota: 1
 Output: 
