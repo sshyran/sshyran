@@ -1,6 +1,6 @@
-
-[My GitHub stats](https://sshyran.github.io/shyran-system-stats//api?username=sshyran&show_icons=true&theme=tokyonight)
-
+<!--
+![My GitHub stats](https://sshyran.github.io/shyran-system-stats/api/?username=shyransystems&show_icons=true&theme=tokyonight)
+-->
 
 
 ###### Daily quote quota: 1
