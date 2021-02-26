@@ -1,5 +1,9 @@
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight)](https://github.com/sshyran/)
-
+-->
+<a href="https://github.com/sshyran/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight" />
+</a>
 
 ###### Daily quote quota: 1
 Output: 
