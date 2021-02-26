@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight)](https://github.com/sshyran/readme-stats-reader)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight)](https://github.com/sshyran/)
 
 
 ###### Daily quote quota: 1
