@@ -8,7 +8,7 @@
 ###### Secure e-mail alias, for private DM's:
 ```
 n7ckav5jy@relay.firefox.com
-incognito@shyransystems.uu.im
+incognito@shyransystems.uu.me
 ```
 
 
