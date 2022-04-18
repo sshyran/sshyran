@@ -1,7 +1,7 @@
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight)](https://github.com/sshyran/)
 -->
-СЛАВА УКРАЇНІ! СМЕРТЬ РАШИСТАМ, СМЕРТЬ ВОРОГАМ!
+СЛАВА УКРАЇНІ! СМЕРТЬ рашистам, СМЕРТЬ ВОРОГАМ!
 <a href="https://github.com/sshyran/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight" />
 </a>
