@@ -1,7 +1,6 @@
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight)](https://github.com/sshyran/)
 -->
-Output: 
 ```
 Welcome to Ukraine! СЛАВА УКРАЇНІ! СЛАВА ГЕРОЯМ!
 ```
@@ -18,8 +17,8 @@ incognito@shyransystems.uu.me
 
 <!--
 
-###### Daily quote quota: 1
-Output: 
+###### quote :
+ 
 ``` 
 Zero bit of knowledge is already 0ne bit of storage! 
 ```
