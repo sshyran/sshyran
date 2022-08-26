@@ -4,7 +4,6 @@
 Output: 
 ```
 Welcome to Ukraine! СЛАВА УКРАЇНІ! СЛАВА ГЕРОЯМ!
-Output: 
 ```
 <a href="https://github.com/sshyran/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight" />
