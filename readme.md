@@ -10,10 +10,12 @@
 ```
 Welcome to Ukraine! СЛАВА УКРАЇНІ! СЛАВА ГЕРОЯМ!
 ```
+
+<!--
 <a href="https://github.com/sshyran/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshyran&show_icons=true&theme=tokyonight" />
 </a>
-
+-->
 ###### Secure e-mail alias, for private DM's:
 ```
 n7ckav5jy@relay.firefox.com
